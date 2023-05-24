@@ -24,7 +24,7 @@
     </p>
     </details>
     
-    <p align="center">
+   <p align="center">
       <a href="https://github.com/Last-emo-boy">
         <img src="https://komarev.com/ghpvc/?username=Last-emo-boy&color=blue&style=flat" />
       </a>

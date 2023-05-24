@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Last-emo-boy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Last-emo-boy&layout=compact&hide_border=true&langs_count=10)
+
+![Last-emo-boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Last-emo-boy&show_icons=true&theme=radical)
+
+![Last-emo-boy's Leetcode stats](https://stats.justsong.cn/api/leetcode?username=w33d-7&cn=true)
+
 <!--
 **Last-emo-boy/Last-emo-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

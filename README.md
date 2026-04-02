@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  Freshman at SEU · Japanese & EEE <br/>
+  Freshman at Southeast University · Japanese & EEE <br/>
   Python / Node.js · Blockchain · Edge Computing · AI Agents
 </p>
 
 <p align="center">
   <a href="https://leetcode.cn/u/w33d-7/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://wakatime.com/@5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f">
     <img src="https://wakatime.com/badge/user/5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f.svg" alt="WakaTime">
@@ -22,11 +22,11 @@
   <a href="mailto:momoxiaomaster@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/Last-emo-boy">
+  <a href="https://github.com/Last-emo-boy?tab=followers">
     <img src="https://img.shields.io/github/followers/Last-emo-boy?style=flat-square&label=Followers&logo=github" alt="GitHub Followers">
   </a>
   <a href="https://github.com/Last-emo-boy">
-    <img src="https://komarev.com/ghpvc/?username=Last-emo-boy&style=flat-square&color=blue" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Last-emo-boy&style=flat-square&color=3b82f6" alt="Profile Views">
   </a>
 </p>
 
@@ -34,42 +34,50 @@
 
 ## About Me
 
-- Building AI agents, data pipelines, and backend tools with **Python** and **Node.js**
-- Interested in **blockchain applications**, **edge computing**, and practical engineering
-- Trying to turn ideas into small, useful, and shippable projects
+I am an undergraduate student at Southeast University with interests spanning software engineering, intelligent systems, and applied computing.
 
-## Tech Stack
+My current work mainly focuses on:
+- AI agents and backend toolchains
+- data pipelines and practical system design
+- blockchain applications and edge computing
+- building small but useful projects from ideas
+
+I enjoy combining research-oriented thinking with implementation-driven development.
+
+## Technical Stack
+
+### Languages
+`Python` `TypeScript` `JavaScript` `C++` `Java`
+
+### Frameworks / Tools
+`FastAPI` `Express` `Docker` `Git` `Linux` `Nginx`
+
+### Data / Storage
+`PostgreSQL` `SQLite` `Redis`
+
+### General Interests
+`AI Agents` `Blockchain` `Edge Computing` `Backend Systems`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,ts,cpp,java,linux,git,docker,sqlite,postgres,redis,nginx,fastapi,express,md" alt="Tech Stack" />
 </p>
 
-## GitHub Stats
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Last-emo-boy&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Last-emo-boy&theme=transparent&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Last-emo-boy&theme=transparent" alt="Profile Details"/>
-</p>
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Last-emo-boy/Astrbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Last-emo-boy&repo=Astrbot&theme=transparent&hide_border=true" alt="Astrbot"/>
-  </a>
-  <a href="https://github.com/Last-emo-boy/windows-exe-decompiler-mcp-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Last-emo-boy&repo=windows-exe-decompiler-mcp-server&theme=transparent&hide_border=true" alt="windows-exe-decompiler-mcp-server"/>
-  </a>
+  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/We-Block/smart-expiring-product-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=We-Block&repo=smart-expiring-product-management&theme=transparent&hide_border=true" alt="Smart Expiring Product Management"/>
-  </a>
+  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---

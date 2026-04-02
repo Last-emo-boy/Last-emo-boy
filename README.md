@@ -1,87 +1,121 @@
-<h1 align="center">
-  Hi there
-  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28" alt="wave">
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Welcome to my GitHub profile</b>
-</p>
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│  Hi There 👋                                                │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
-<p align="center">
-  Freshman at Southeast University · Japanese & EEE <br/>
-  Python / Node.js · Blockchain · Edge Computing · AI Agents
-</p>
+<b>Welcome to my page!</b><br/>
+<sub>Freshman @ SEU · Japanese & EEE · Python/Node.js · Blockchain & Edge Computing</sub>
 
-<p align="center">
-  <a href="https://leetcode.cn/u/w33d-7/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://wakatime.com/@5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f">
-    <img src="https://wakatime.com/badge/user/5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f.svg" alt="WakaTime">
-  </a>
-  <a href="mailto:momoxiaomaster@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Last-emo-boy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Last-emo-boy?style=flat-square&label=Followers&logo=github" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/Last-emo-boy">
-    <img src="https://komarev.com/ghpvc/?username=Last-emo-boy&style=flat-square&color=3b82f6" alt="Profile Views">
-  </a>
-</p>
+<br/><br/>
 
----
+<a href="https://leetcode.cn/u/w33d-7/">
+  <img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=LeetCode" alt="LeetCode">
+</a>
+<a href="https://wakatime.com/@5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f">
+  <img src="https://wakatime.com/badge/user/5bd3393a-a3b1-48aa-90a2-bcf1f6bfcb7f.svg" alt="Total time coded since Feb 12 2025" />
+</a>
+<a href="mailto:momoxiaomaster@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+<a href="https://github.com/Last-emo-boy">
+  <img src="https://img.shields.io/github/followers/Last-emo-boy?style=for-the-badge&label=Follow&logo=github" alt="GitHub Followers">
+</a>
 
-## About Me
+<br/><br/>
 
-I am an undergraduate student at Southeast University with interests spanning software engineering, intelligent systems, and applied computing.
+<a href="https://github.com/Last-emo-boy">
+  <img src="https://komarev.com/ghpvc/?username=Last-emo-boy&color=blue&style=for-the-badge" alt="profile views"/>
+</a>
 
-My current work mainly focuses on:
-- AI agents and backend toolchains
-- data pipelines and practical system design
-- blockchain applications and edge computing
-- building small but useful projects from ideas
-
-I enjoy combining research-oriented thinking with implementation-driven development.
-
-## Technical Stack
-
-### Languages
-`Python` `TypeScript` `JavaScript` `C++` `Java`
-
-### Frameworks / Tools
-`FastAPI` `Express` `Docker` `Git` `Linux` `Nginx`
-
-### Data / Storage
-`PostgreSQL` `SQLite` `Redis`
-
-### General Interests
-`AI Agents` `Blockchain` `Edge Computing` `Backend Systems`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,ts,cpp,java,linux,git,docker,sqlite,postgres,redis,nginx,fastapi,express,md" alt="Tech Stack" />
-</p>
+</div>
 
 ---
 
-## GitHub Activity
+```text
+┌─[ PROFILE/PANEL ]
+│
+│  STATUS  : ACTIVE
+│  MODE    : BUILD / SHIP / ITERATE
+│  CHANNEL : PUBLIC
+│
+└──────────────────────────────────────────────────────────────
+````
 
-<p align="center">
-  <img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
-</p>
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/nord_dark/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
-</p>
+```text
+┌─[ ABOUT_ME ]
+│
+│  🧪 Building AI/Agents、数据管线与后端工具（Python/Node.js）
+│  🔗 对区块链应用与边缘计算有持续兴趣
+│  🎯 目标：把 idea 变成能落地的小而美作品
+│
+└──────────────────────────────────────────────────────────────
+```
 
 ---
 
-<p align="center">
-  <i>Keep it simple, ship it fast.</i>
-</p>
+### 🧰 Tech Stack
+
+```text
+┌─[ TECH_STACK ]
+│
+│  python  nodejs  ts  cpp  java  linux  git  docker
+│  sqlite  postgres  redis  nginx  fastapi  express
+│  regex  md
+│
+└──────────────────────────────────────────────────────────────
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,ts,cpp,java,linux,git,docker,sqlite,postgres,redis,nginx,fastapi,express,regex,md" alt="tech stack" />
+</div>
+
+---
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+
+```text
+┌─[ GITHUB_STATS ]
+│
+│  loading profile-details...
+│  loading streak-stats...
+│  loading summary-stats...
+│  loading readme-stats...
+│
+└──────────────────────────────────────────────────────────────
+```
+
+  <p align="center">
+    <a href="https://github.com/Last-emo-boy">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Last-emo-boy&theme=transparent" alt="profile details"/>
+    </a>
+    <br/><br/>
+    <a href="https://github.com/Last-emo-boy">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Last-emo-boy&hide_border=true&card_width=420&theme=transparent" alt="streak stats"/>
+    </a>
+    <br/><br/>
+    <a href="https://github.com/Last-emo-boy">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Last-emo-boy&theme=transparent" alt="summary stats"/>
+    </a>
+    <a href="https://github.com/Last-emo-boy">
+      <img src="https://github-readme-stats.vercel.app/api?username=Last-emo-boy&show_icons=true&theme=transparent&rank_icon=github" alt="readme stats"/>
+    </a>
+  </p>
+</details>
+
+---
+
+```text
+┌─[ MOTTO ]
+│
+│  “Keep it simple, ship it fast.”
+│
+└──────────────────────────────────────────────────────────────
+```
+
